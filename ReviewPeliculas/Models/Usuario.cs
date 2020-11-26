@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace ReviewPeliculas.Models
 {
-    public class Administrador
+    public class Usuario
     {
-        public int idAdministrador { get; set; }
+        public int idUsuario { get; set; }
 
         public string nombres { get; set; }
 
